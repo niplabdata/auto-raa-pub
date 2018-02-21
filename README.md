@@ -1,4 +1,5 @@
-Disclaimer: 
+Disclaimer:
+
 The current package is distributed as supplementary material for the following publication (not peer-reviewed):
 
 "Automated Reactive Accelerated Aging for Rapid In Vitro Evaluation of Neural Implants Performance" 
