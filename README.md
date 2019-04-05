@@ -1,8 +1,8 @@
 
 This repository is distributed as supplementary material for publication:  
 
-*"Automated reactive accelerated aging for rapid in vitro evaluation of neural implant performance "
-by Matthew G. Street, Cristin G. Welle, and Pavel A. Takmakov*  
+*"Automated reactive accelerated aging for rapid in vitro evaluation of neural implant performance."   
+Matthew G. Street, Cristin G. Welle, and Pavel A. Takmakov*  
 
 https://aip.scitation.org/doi/pdf/10.1063/1.5024686  
 **open-access pre-publication:**     
