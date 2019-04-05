@@ -1,0 +1,31 @@
+description,full_desription,supplier,part_number,unit_price,total_price
+Raspbery Pi,CanaKit Raspberry Pi 3 Complete Starter Kit - 32 GB Edition,Amazon.com,N/A,64.99,129.98
+HDMI cable,HDMI Cable - 1 meter,Adafruit Industries,608,4.95,4.95
+USB cable,"Rosewill 6.5-Foot USB 3.0 A Male to A Male Cable, Black (RC-6-USB3-AM-AM-BK)",Newegg,N82E16812119260,5.99,23.96
+USB hub,Rosewill RHUB-300 - 7-Port USB 2.0 Hub with Power Adapter,Newegg,N82E16817182057,24.99,24.99
+Jumper wires,"Premium Female/Male 'Extension' Jumper Wires - 20 x 12""",Adafruit Industries,1952,3.95,3.95
+Breadboard,Half Size Breadboard + 78 Piece 22AWG Jumper Wire Bundle,Adafruit Industries,3314,7.95,15.90
+Clock chip,Adafruit PiRTC - PCF8523 Real Time Clock for Raspberry Pi,Adafruit Industries,3386,5.95,11.90
+GPIO power relay,IoT Power Relay,Digital Loggers Inc.,IoT Power Relay,26.95,53.90
+Heating mantle,Fabric heating mantle,Glas-col,100A O983,321.00,642.00
+PID controller (original),PLATINUM(TM) Series Universal Benchtop Digital Controllers - needs thermistor,Omega,CS8DPT,595.00,1190.00
+Thermocouple Extension Cables,Thermocouple Extension Cables with Molded Connectors, Omega , TECK25-2,32.75,65.50
+Thermistor,"Hermetically Sealed Thermistor Sensor, 2252 Ohms at 25øC, 40 Inches Long.",Omega,HSTH-44033-40,53.50,107.00
+PID controller (new),Miniature Benchtop Controllers (temperature) - needs thermocouple,Omega,CSI32K-C24,655.00,1310.00
+Thermocouple,"1/16"" dia. PFA Coated Probe, Type K, 12"" length",Omega,CASS-116G-12-PFA,55.50,111.00
+Potentiostat,Rodeostat:open source potentiostat,IO Rodeo Inc,Rodeostat,250.00,500.00
+Reactor flask,"European Style Five-Neck Flasks, Angled Necks, Ace Glass",VWR,89057-264,241.35,482.70
+Tubes for H2O2,"Straight Connectors, Tube-to-Tube 1/16"", PVDF",McMaster-Carr,5121K191,0.42,8.40
+Stirrer,VEVOR Magnetic Stirrer Hotplate 110V Magnetic Stirring Mixer 85-2 Hotplate Magnetic Heating Plate 1000ML,Newegg,9SIAEME6YB9882,79.99,159.98
+Pump for H2O2, Peristalic pump,Binaca,PP-1001,459.00,918.00
+H2O2 and waste bottles, Bottle HPLC 1000 mL 4 port cap  ,Fischer scientific,09-841-008,116.46,465.84
+Pump for waist,"Tetra Whisper Aquarium Air Pump, For 10 gallon Aquariums",Petco,,7.39,29.56
+Joint Tubing Adapters,Safe-Lab Joint Tubing Adapters (24/40),Thomas Scienti,,84.88,169.76
+PTFE Thermometer Adapters,Scienceware PTFE Thermometer Adapters(14/20),Thomas Scienti,,66.99,267.96
+RS-232 to USB convertor,2_USB 2.0 to Serial (9-Pin) DB-9 RS-232 Adapter ,Newegg,SBT-FTDI,13.71,27.42
+Crack-Resistant PFA Clear Tubing,Crack-Resistant PFA Clear Tubing for Chemicals 1/16 ID 1/8 OD 50 ft. Length,McMaster-Carr,52705K31,83.00,166.00
+,,,,,
+,,,,,
+Total cost,,,,,6800.14
+Shipping,,,,,975.45
+Grand total,,,,,7775.59
